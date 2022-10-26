@@ -2,6 +2,6 @@
   "name": "saybot",
   "language": "javascript",
   "manager": "npm",
-  "token": "MTAzNDE0NzIxNTQ0MDA5MzIzNQ.G21bVT.e5x6YSzaQgnMddsmb9RPTUWc964m7uoAhPDaAQ",
+  "token": "MY_TOKEN",
   "prefix": "." 
 }
