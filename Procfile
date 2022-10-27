@@ -1,2 +1,2 @@
 Worker: node Index.js
-node_modules
+import node_modules
